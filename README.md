@@ -6,7 +6,8 @@
 -Open your CMD, Clone the Repository to your local machine, after cloning go to the project folder on CMD and do the following instructions:
 1. npm install
 2. npm run dev
-After that you can run the project on localhost in a Browser
+   
+-After that you can run the project on localhost in a Browser
 
 
 # 2.  How much time i have spent to complete the project  🔥
