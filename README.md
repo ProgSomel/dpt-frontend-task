@@ -12,7 +12,7 @@
 
 # 2.  How much time i have spent to complete the project  🔥
 
-- It takes 2.5 hours to complete the project
+- It takes 2 hours to complete the project
 
 
 # 3.  Best Practices I have implemented in my code
